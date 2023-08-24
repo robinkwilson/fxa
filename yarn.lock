@@ -19601,12 +19601,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cron@npm:2.1.0":
-  version: 2.1.0
-  resolution: "cron@npm:2.1.0"
+"cron@npm:2.4.1":
+  version: 2.4.1
+  resolution: "cron@npm:2.4.1"
   dependencies:
-    luxon: ^1.23.x
-  checksum: 9395875c091f56db7964491c249cb143d2e4ba77560d7132da783943c1b0537ef1814eb8f552c81eda5a2aa153216dd3f5b7ff63e372a68a063fcfafe8231f91
+    luxon: ^3.2.1
+  checksum: a421a837f99cf18da2f51e3608610f71817c38e6f756b4c85a26f64521dac327ac79861ae3dcf991076f72f3be0daadfffd413b4be0c3b4b029509b89e86b6d4
   languageName: node
   linkType: hard
 
@@ -25439,7 +25439,7 @@ fsevents@~2.1.1:
     audit-filter: ^0.5.0
     bluebird: ^3.7.2
     chai: ^4.3.6
-    cron: 2.1.0
+    cron: 2.4.1
     eslint: ^8.19.0
     eslint-plugin-fxa: ^2.0.2
     fxa-shared: "workspace:*"
@@ -33431,6 +33431,13 @@ fsevents@~2.1.1:
   version: 2.5.2
   resolution: "luxon@npm:2.5.2"
   checksum: d8b671ffd2ff0b438af862ac11082a81b3aedd9f8b6a4ca636f944224f8dd381125cd4d274ca0a8aedcaf2cfca0fc2ca96fe4cc1b16a28b7af701afb95c0bff8
+  languageName: node
+  linkType: hard
+
+"luxon@npm:^3.2.1":
+  version: 3.4.1
+  resolution: "luxon@npm:3.4.1"
+  checksum: cd5e2a407cdc55a10548f6e0c1ca83590574fa3cba4d03da37113cd7dc118e6ce46b2d71ddc32cfd35a0413c15ac9a3cfdef3a2702e6862814b691048ffe0be8
   languageName: node
   linkType: hard
 
